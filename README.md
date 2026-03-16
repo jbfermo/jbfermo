@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jbfermo
 - 👀 I’m interested in getting better at programming
-- 🌱 I’m currently learning C, Java, Python, Git, Assembly
+- 🌱 I’m currently learning C, Java, HTML, Python, Git, SQL
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me: jesella.fermo@gmail.com
 - 😄 Pronouns: she/her
