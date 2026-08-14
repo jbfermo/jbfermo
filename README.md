@@ -14,6 +14,9 @@ applications and applied ML systems.
 
 ## Experience
 
+- **Systems Research Group, UPLB** — Student Assistant. Led administrative
+  coordination for systems research, streamlining data processing and cutting
+  deliverable turnaround by ~15%.
 - **Bangko Sentral ng Pilipinas** — IT Systems Management Intern. Documented 35+
   Spring Boot APIs and prototyped a Currency Management System redesign.
 - **CBRE Global Workplace Solutions** — Led a three-person automation team;
@@ -29,7 +32,7 @@ Python · PyTorch · Java · React · Node.js · SQL · Docker · REST APIs
 
 ## Contact
 
-[jesella.fermo@gmail.com](mailto:jesella.fermo@gmail.com) · [Portfolio](https://your-portfolio-url)
+[jesella.fermo@gmail.com](mailto:jesella.fermo@gmail.com) · [Portfolio]([https://jbfermo.vercel.app/])
 
 
 <!---
