@@ -1,18 +1,36 @@
+
 # Hey, I'm Jesella 👋
 
-Machine learning researcher and full-stack developer who builds things that actually ship.
+Software engineer and machine learning researcher building production web
+applications and applied ML systems.
 
-- 🧠 Fine-tuned DistilBERT for NLP text classification at **90.67% accuracy** — beating a BERT-base baseline (p < 0.001)
-- 🏛️ Interned at **Bangko Sentral ng Pilipinas**, documenting 35+ APIs and prototyping a Currency Management System redesign
-- 🏆 **2nd place**, CMSC 191 Cybersecurity CTF — binary exploitation, web vulns, crypto
-- 🎓 BS Computer Science, University of the Philippines Los Baños, '26
+## Selected Work
 
-**Stack:** Python · PyTorch · React · Node.js · SQL · Docker · Java
+- **NLP Text Classification** — Fine-tuned DistilBERT on 78,916 posts, achieving
+  90.67% accuracy (p < 0.001 vs. BERT-base). Shipped an end-to-end pipeline
+  (preprocessing → training → FastAPI inference) with SHAP explainability.
+- **ARTEMIS Alumni Platform** — Full-stack web app (React, Node.js/Express,
+  MariaDB) managing scholarships, events, and job posts.
 
-- 💞️ I’m looking to collaborate on projects, especially open-source projects
-- 📫 How to reach me: jesella.fermo@gmail.com
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I can solve a rubix cube
+## Experience
+
+- **Bangko Sentral ng Pilipinas** — IT Systems Management Intern. Documented 35+
+  Spring Boot APIs and prototyped a Currency Management System redesign.
+- **CBRE Global Workplace Solutions** — Led a three-person automation team;
+  processed datasets up to 50GB.
+
+## Recognition
+
+- 2nd place, CMSC 191 Cybersecurity CTF
+
+## Skills
+
+Python · PyTorch · Java · React · Node.js · SQL · Docker · REST APIs
+
+## Contact
+
+[jesella.fermo@gmail.com](mailto:jesella.fermo@gmail.com) · [Portfolio](https://your-portfolio-url)
+
 
 <!---
 jbfermo/jbfermo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
