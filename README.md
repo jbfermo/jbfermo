@@ -9,8 +9,7 @@ Machine learning researcher and full-stack developer who builds things that actu
 
 **Stack:** Python · PyTorch · React · Node.js · SQL · Docker · Java
 
-- 👋 Hi, I’m @jbfermo
-- 💞️ I’m looking to collaborate on projects
+- 💞️ I’m looking to collaborate on projects, especially open-source projects
 - 📫 How to reach me: jesella.fermo@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I can solve a rubix cube
