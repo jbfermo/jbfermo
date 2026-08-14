@@ -32,7 +32,7 @@ Python · PyTorch · Java · React · Node.js · SQL · Docker · REST APIs
 
 ## Contact
 
-[jesella.fermo@gmail.com](mailto:jesella.fermo@gmail.com) · [Portfolio]([https://jbfermo.vercel.app/])
+[jesella.fermo@gmail.com](mailto:jesella.fermo@gmail.com) · [Portfolio](https://jbfermo.vercel.app)
 
 
 <!---
