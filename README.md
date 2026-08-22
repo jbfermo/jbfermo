@@ -28,7 +28,7 @@ applications and applied ML systems.
 
 ## Skills
 
-Python · PyTorch · Java · React · Node.js · SQL · Docker · REST APIs
+Python · PyTorch · Java · C · React · Node.js · SQL · NoSQL · Docker · REST APIs 
 
 ## Contact
 
