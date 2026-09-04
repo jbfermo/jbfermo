@@ -20,7 +20,7 @@ applications and applied ML systems.
 - **Bangko Sentral ng Pilipinas** — IT Systems Management Intern. Documented 35+
   Spring Boot APIs and prototyped a Currency Management System redesign.
 - **CBRE Global Workplace Solutions** — Led a three-person automation team;
-  processed datasets up to 50GB.
+  processed datasets.
 
 ## Recognition
 
